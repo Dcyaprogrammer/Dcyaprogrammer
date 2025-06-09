@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dcyaprogrammer
-- 👀 I’m interested in AGI, Self-driving and Data science
+- 👀 I’m interested in Reinforcement Learning, App Development.
 - 🌱 I’m currently learning AI models/Data processsing
 - 📫 I'm a UG student
 - ⚡ Fun fact: NFL fan 0_0
