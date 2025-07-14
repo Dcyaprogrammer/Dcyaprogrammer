@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Dcyaprogrammer
-- 👀 I’m interested in Reinforcement Learning, Mathematics, Linux.
-- 📫 I'm a UG student
-- ⚡ Fun fact: NFL fan 0_0
+[![wakatime](https://wakatime.com/badge/user/7d416faa-7c08-4b96-9596-9b1f73572203.svg)](https://wakatime.com/@7d416faa-7c08-4b96-9596-9b1f73572203)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dcyaprogrammer&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
